@@ -131,3 +131,4 @@ D:\ProgramacionRepos\MicrosoftAPI\obj\Debug\net8.0\refint\MicrosoftAPI.dll
 D:\ProgramacionRepos\MicrosoftAPI\obj\Debug\net8.0\MicrosoftAPI.pdb
 D:\ProgramacionRepos\MicrosoftAPI\obj\Debug\net8.0\MicrosoftAPI.genruntimeconfig.cache
 D:\ProgramacionRepos\MicrosoftAPI\obj\Debug\net8.0\ref\MicrosoftAPI.dll
+D:\ProgramacionRepos\MicrosoftAPI\obj\Debug\net8.0\MicrosoftAPI.sourcelink.json
